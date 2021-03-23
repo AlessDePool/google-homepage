@@ -36,5 +36,51 @@
     z-index: 3;
     left: 20px;
     font-size: 16px;
-   
+}
+.cont {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+}
+.links {
+    margin: 8px;
+    color: rgba(0,0,0,0.87);
+    font-family: arial,sans-serif;
+    font-size: small;
+    position: relative;
+    bottom: 429px;
+    right: 104px
+}
+.punto {
+    width: 18px;
+    position: relative;
+    left: 1268px;
+    bottom: 466px;
+}
+.caja {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.box{
+    margin: 10px;
+    padding: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 19px;
+    padding-right: 19px;
+    background-color:rgba(228, 228, 228, 0.425);
+    font-family: arial,sans-serif;
+    font-size: small;
+    color: rgb(56, 56, 56);
+    position: relative;
+    bottom: 120px;
+    border-radius: 4px;
+}
+.mic {
+    width: 15px;
+    position: relative;
+    left: 920px;
+    bottom: 234px;
+    z-index: 5;
 }
