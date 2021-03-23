@@ -1,0 +1,26 @@
+#logo {
+    width: 298px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 160px
+}
+ .bar {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 12px;
+    position: relative;
+    top: -2px;
+    border-radius: 50px;
+    box-shadow: 0 0 7px rgb(202, 202, 202);
+    border-color: rgba(184, 184, 184, 0);
+    z-index: 1
+}
+#lupa {
+    width: 18px;
+    position: relative;
+    left: 410px;
+    bottom: 31px;
+    z-index: 2;
+}
