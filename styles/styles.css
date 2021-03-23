@@ -84,3 +84,14 @@
     bottom: 234px;
     z-index: 5;
 }
+.links:hover {
+    text-decoration: underline;
+}
+.box:hover {
+    border-width: 1px;
+    border-color: rgb(206, 206, 206);
+    border-style: solid;
+}
+.bar2:focus {
+outline-width: 0px;
+}
